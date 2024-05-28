@@ -7,6 +7,8 @@ Here I go,
 
 
 Education: Bachelor's of Science Concentrating in AI and Data Science. 
+
+
 Skills: Proficient in various data science tools and technologies, including:
 - Languages: Python, R, SQL
 - Data Analysis: Pandas, NumPy, Matplotlib, GGPlot2 
